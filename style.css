@@ -17,3 +17,9 @@ body {
   padding: 0 50px 50px 50px;
   border: 5px solid black;
 }
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: red;
+  text-shadow: 5px 5px 2px purple;
+}
